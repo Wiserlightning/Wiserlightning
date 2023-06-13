@@ -33,9 +33,9 @@ Here is my website where you can see what current projects I am working on and w
 
 To reach out to me:
 
-- Email: youremail@example.com
+- Email: nsachdeva.iv@gmail.com
 - LinkedIn: [Neil Sachdeva](https://www.linkedin.com/in/neil-sachdeva-b97149203/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourhandle)
+[//]: <> (- Twitter: [@YourTwitterHandle](https://twitter.com/yourhandle))
 
 ## Stats
 
