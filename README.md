@@ -19,9 +19,10 @@ List your skills or technologies that you are proficient in. This could include 
 ## Projects
 
 
-- [Project 1](https://github.com/username/project1): Brief description or key features.
-- [Project 2](https://github.com/username/project2): Brief description or key features.
-- [Project 3](https://github.com/username/project3): Brief description or key features.
+- [NPL Movielizer](https://github.com/Wiserlightning/movie_NLP): Developed a GUI application predicting movie ratings (/10) with ±1.5 error solely from reviews, using NLTK and Spellchecker for preprocessing, lemmatization, stemming, and vectorization.
+- [WeatherWiseWeatherWise](https://github.com/Wiserlightning/WeatherWise): Developed a responsive weather monitoring web app with real-time data, resulting in a 35% increase in user engagement and 25% fewer complaints.
+- [Sudoku SolverSudoku](https://github.com/Wiserlightning/OpenCV-Sudoku-Solver): Developed software to automatically solve Sudoku boards from user-taken photos using OpenCV and a backtracking algorithm.
+- [Iris Insights](https://github.com/Wiserlightning/IrisInsights): Achieved 94% accuracy in classifying iris flowers by developing a Python-based TensorFlow and Scikit-learn model.
 
 ## Website
 
@@ -35,19 +36,19 @@ To reach out to me:
 
 - Email: nsachdeva.iv@gmail.com
 - LinkedIn: [Neil Sachdeva](https://www.linkedin.com/in/neil-sachdeva-b97149203/)
-[//]: <> (- Twitter: [@YourTwitterHandle](https://twitter.com/yourhandle))
+<!--(- Twitter: [@YourTwitterHandle](https://twitter.com/yourhandle))-->
 
 ## Stats
 
 You can add some fun statistics or metrics to showcase your GitHub activity and contributions.
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&count_private=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wiserlightning&show_icons=true&count_private=true)
 
 ## Open for Collaboration
 
 I am open to collaboration and looking for opportunities. I am interested in open source projects and freelance work.
 
-//## License
+<!--## License
 
-//If you have specific licensing for your code or projects, mention it here.
+If you have specific licensing for your code or projects, mention it here.-->
 
