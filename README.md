@@ -40,7 +40,7 @@ To reach out to me:
 
 ## Stats
 
-You can add some fun statistics or metrics to showcase your GitHub activity and contributions.
+These are my stats currently (they need major improvement).
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wiserlightning&show_icons=true&count_private=true)
 
