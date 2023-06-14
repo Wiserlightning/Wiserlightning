@@ -7,9 +7,10 @@ I'm Neil, a Computer Engineering student at the University of Waterloo. I have a
 
 ## Skills
 
-List your skills or technologies that you are proficient in. This could include programming languages, frameworks, tools, or methodologies. Feel free to organize them into different categories or levels of proficiency.
+JavaScript, Python, Java, C++, C
+🚀 Languages I've Used:
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-- Programming Languages: JavaScript, Python, Java, C++, C
 - Front-end Development: HTML, CSS, React
 - Back-end Development: Node.js, Express
 - Libraries: Pandas, OpenCV, Scikit-Learn, numpy, okapiLIB
