@@ -83,5 +83,5 @@ I am open to collaboration and looking for opportunities. I am interested in ope
 
 If you have specific licensing for your code or projects, mention it here.-->
 
-[![Pornhub]((https://1000logos.net/wp-content/uploads/2017/12/Pornhub-Logo.png)=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.pornhub.com/)
+
 
