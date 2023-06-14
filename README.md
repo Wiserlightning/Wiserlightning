@@ -5,10 +5,10 @@
 I'm Neil, a Computer Engineering student at the University of Waterloo. I have a keen interest in machine learning and enjoy exploring its applications. Constantly eager to expand my skillset, I'm always seeking opportunities to learn new technologies and stay up-to-date with the latest advancements. Passionate about combining my engineering background with the power of AI, I strive to contribute to cutting-edge projects and make a positive impact in the field.
 
 
-## Skills
+## 🚀 Languages I've Used:
 
 
-🚀 Languages I've Used:
+
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/)
