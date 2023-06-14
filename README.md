@@ -11,6 +11,7 @@ I'm Neil, a Computer Engineering student at the University of Waterloo. I have a
 🚀 Languages I've Used:
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=javaScript&logoColor=white)](https://www.javascript.com/)
 
 Front-end Development:
