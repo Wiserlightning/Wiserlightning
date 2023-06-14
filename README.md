@@ -7,18 +7,19 @@ I'm Neil, a Computer Engineering student at the University of Waterloo. I have a
 
 ## Skills
 
-JavaScript, Python, C++, C
+
 🚀 Languages I've Used:
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=javaScript&logoColor=white)](https://www.javascript.com/)
 
 Front-end Development:
+
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/TR/html52/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 
-Back-end Development: Node.js, Express
+Back-end Development: 
 
 [![Node.js](https://img.shields.io/badge/Node.js-36BF48?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
