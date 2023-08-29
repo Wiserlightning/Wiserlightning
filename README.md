@@ -51,8 +51,8 @@ Other Tools:
 
 
 - [NPL Movielizer](https://github.com/Wiserlightning/movie_NLP): Developed a GUI application predicting movie ratings (/10) with ±1.5 error solely from reviews, using NLTK and Spellchecker for preprocessing, lemmatization, stemming, and vectorization.
-- [WeatherWiseWeatherWise](https://github.com/Wiserlightning/WeatherWise): Developed a responsive weather monitoring web app with real-time data, resulting in a 35% increase in user engagement and 25% fewer complaints.
-- [Sudoku SolverSudoku](https://github.com/Wiserlightning/OpenCV-Sudoku-Solver): Developed software to automatically solve Sudoku boards from user-taken photos using OpenCV and a backtracking algorithm.
+- [WeatherWise](https://github.com/Wiserlightning/WeatherWise): Developed a responsive weather monitoring web app with real-time data, resulting in a 35% increase in user engagement and 25% fewer complaints.
+- [Sudoku Solver](https://github.com/Wiserlightning/OpenCV-Sudoku-Solver): Developed software to automatically solve Sudoku boards from user-taken photos using OpenCV and a backtracking algorithm.
 - [Iris Insights](https://github.com/Wiserlightning/IrisInsights): Achieved 94% accuracy in classifying iris flowers by developing a Python-based TensorFlow and Scikit-learn model.
 
 ## Website
