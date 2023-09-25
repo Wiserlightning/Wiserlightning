@@ -65,7 +65,7 @@ Here is my website where you can see what current projects I am working on and w
 
 To reach out to me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/neil-sachdeva-b97149203/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neil-sachdeva-b97149203/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nsachdeva.iv@gmail.com)
 <!--(- Twitter: [@YourTwitterHandle](https://twitter.com/yourhandle))-->
 
