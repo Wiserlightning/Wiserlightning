@@ -59,7 +59,7 @@ Other Tools:
 
 Here is my website where you can see what current projects I am working on and what is going on in my life.
 
-- [Website](currently under maintenance)
+- [Website]([currently under maintenance](https://wiserlightning.github.io/))
 
 ## Contact
 
