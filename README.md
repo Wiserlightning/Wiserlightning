@@ -1,5 +1,11 @@
 # Hello, I'm Neil Sachdeva! 👋
 
+## Website
+
+Here is my website where you can see what current projects I am working on and what is going on in my life.
+
+- [My Personal Website](https://wiserlightning.github.io/): This is currently under maintenance.
+
 ## About Me
 
 I'm Neil, a Computer Engineering student at the University of Waterloo. I have a keen interest in machine learning and enjoy exploring its applications. Constantly eager to expand my skillset, I'm always seeking opportunities to learn new technologies and stay up-to-date with the latest advancements. Passionate about combining my engineering background with the power of AI, I strive to contribute to cutting-edge projects and make a positive impact in the field.
@@ -55,11 +61,6 @@ Other Tools:
 - [Sudoku Solver](https://github.com/Wiserlightning/OpenCV-Sudoku-Solver): Developed software to automatically solve Sudoku boards from user-taken photos using OpenCV and a backtracking algorithm.
 - [Iris Insights](https://github.com/Wiserlightning/IrisInsights): Achieved 94% accuracy in classifying iris flowers by developing a Python-based TensorFlow and Scikit-learn model.
 
-## Website
-
-Here is my website where you can see what current projects I am working on and what is going on in my life.
-
-- [My Personal Website](https://wiserlightning.github.io/): This is currently under maintenance.
 
 ## Contact
 
